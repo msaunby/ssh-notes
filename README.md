@@ -11,11 +11,19 @@ Tips for common uses of ssh.
 
 ## Raspberry Pi
 
+<https://www.raspberrypi.com/documentation/computers/remote-access.html#ssh>
+
 ## Ubuntu
+
+<https://ubuntu.com/server/docs/openssh-server>
 
 ## GitHub
 
+<https://docs.github.com/en/authentication/connecting-to-github-with-ssh>
+
 ## Ssh tools
+
+<https://www.openssh.com/>
 
 ### ssh-keygen
 

@@ -21,6 +21,10 @@ Tips for common uses of ssh.
 
 <https://docs.github.com/en/authentication/connecting-to-github-with-ssh>
 
+## VS Code
+
+<https://code.visualstudio.com/docs/remote/ssh>
+
 ## Ssh tools
 
 <https://www.openssh.com/>

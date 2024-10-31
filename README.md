@@ -33,7 +33,7 @@ Although the default key type for ssh was RSA for a very long time, this is now 
 % ssh-keygen -t ed25519
 ```
 
-When deciding whether to set a pass-phrase consider how you will be using the key.  If you are using ssh-agent it probably won't be a burden, but for some uses it's far easier to just specify a key to use and have everything run without prompts for the pass-phrase - this is how I work with VC Code remotes.
+When deciding whether to set a pass-phrase consider how you will be using the key.  If you are using ssh-agent it probably won't be a burden, but for some uses it's far easier to just specify a key to use and have everything run without prompts for the pass-phrase - this is how I work with VS Code remotes.
 
 ### ssh-agent
 
